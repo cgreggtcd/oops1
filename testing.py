@@ -5,3 +5,6 @@ def test_mult():
 
 def test_add():
     assert add_op(10,11)==21
+
+def test_sub():
+    assert sub_op(10,11)==-1
